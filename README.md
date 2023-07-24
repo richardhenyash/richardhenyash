@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Enthusiastic, motivated and determined - I love being part of a team and I am passionate about delivering successful projects and products that exceed expectations. I am a confident, clear communicator and I am able to break down and explain complicated concepts and ideas in order to engage successfully with team members and stakeholders.  
-- I completed the [Code Institute](https://codeinstitute.net/) **Diploma In Software Development** in December 2021, achieving a **Distinction** grade.
-- I have been working professionally as a software developer since May 2022.
-- I am currently delivering a new to market web application using a tech stack including Azure, SQL, C#, .Net, Typescript and Angular.
+- 🌱 I completed the [Code Institute](https://codeinstitute.net/) **Diploma In Software Development** in December 2021, achieving a **Distinction** grade.
+- 👨‍💻 I have been working professionally as a software developer since May 2022.
+- 📦 I am currently delivering a new to market web application using a tech stack including Azure, SQL, C#, .Net, Typescript and Angular.
